@@ -1,4 +1,4 @@
-# Binus-Python-Programming
+# Binus Python Programming
 
 ## Pertemuan 1
 <a href="https://colab.research.google.com/drive/1dBvLlvZKBfkkEq_MCzORCioR9imydV1M?usp=sharing">Pengenalan Pemrograman Python</a>
