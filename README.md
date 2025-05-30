@@ -7,6 +7,7 @@
 <a href="https://colab.research.google.com/drive/1VTUrKAHR8UpUa4tUunes7CdHfmXBUOPt?usp=sharing">Pertemuan 2</a>
 
 ## Pertemuan 3
+<a href="https://colab.research.google.com/drive/1Oa7pJrngnVK_Qpwyy6UADtc7pjZXCpw7?usp=sharing">Pertemuan 3</a>
 
 ## Pertemuan 4
 
