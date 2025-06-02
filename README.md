@@ -10,6 +10,7 @@
 <a href="https://colab.research.google.com/drive/1Oa7pJrngnVK_Qpwyy6UADtc7pjZXCpw7?usp=sharing">Pertemuan 3</a>
 
 ## Pertemuan 4
+<a href="https://colab.research.google.com/drive/1whtoGRHVKrd2TlEuMipQl7dhq-ikjqdt?usp=sharing">Pertemuan 4</a>
 
 ## Pertemuan 5
 
