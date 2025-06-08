@@ -13,6 +13,7 @@
 <a href="https://colab.research.google.com/drive/1whtoGRHVKrd2TlEuMipQl7dhq-ikjqdt?usp=sharing">Pertemuan 4</a>
 
 ## Pertemuan 5
+<a href="https://colab.research.google.com/drive/11EkpTvaurHZm8P8UNwBuu0gXArsmJpzI?usp=sharing">Pertemuan 5</a>
 
 ## Pertemuan 6
 
