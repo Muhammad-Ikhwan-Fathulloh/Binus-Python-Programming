@@ -82,3 +82,7 @@
 - 7.6 Adding Items to a Dictionary  
 - 7.7 Getting Dictionary Length  
 - 7.8 Dictionary Methods
+
+## 📍 Pertemuan Lanjutan: SQL
+[🔗 Link to Notebook](https://colab.research.google.com/drive/1jzexjOdoe2vEmTyKRCMYYmlAslB9gOyg?usp=sharing)  
+[🔗 Link to SQL Fundamental](https://github.com/Muhammad-Ikhwan-Fathulloh/SQL-Course-Bank)  
