@@ -86,3 +86,4 @@
 ## 📍 Pertemuan Lanjutan: SQL
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1jzexjOdoe2vEmTyKRCMYYmlAslB9gOyg?usp=sharing)  
 [🔗 Link to SQL Fundamental](https://github.com/Muhammad-Ikhwan-Fathulloh/SQL-Course-Bank)  
+[🔗 Link to Free DB](https://freedb.tech/)  
