@@ -8,6 +8,7 @@
 
 ## 📍 Pertemuan 1: Introduction to Python  
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1dBvLlvZKBfkkEq_MCzORCioR9imydV1M?usp=sharing)  
+[🔗 Link to Notebook 14/04/2026](https://colab.research.google.com/drive/1K45RfP5KMgPfWCXztr9TEy_e-3ncXN57?usp=sharing)  
 - 1.1 Installing Python  
 - 1.2 Syntax Rules in Python  
 - 1.3 Python Programming Editor  
