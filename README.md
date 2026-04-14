@@ -2,6 +2,9 @@
 **Table of Contents & Materials**
 
 ---
+## Install Visual Studio Code
+[🔗 Link Install VS Code](https://buildwithangga.com/tips/vs-code-untuk-pemula-pengenalan-install-dan-setup-awal-eps-1
+)  
 
 ## 📍 Pertemuan 1: Introduction to Python  
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1dBvLlvZKBfkkEq_MCzORCioR9imydV1M?usp=sharing)  
