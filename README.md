@@ -19,6 +19,7 @@
 
 ## 📍 Pertemuan 2: Data Types & Operators  
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1VTUrKAHR8UpUa4tUunes7CdHfmXBUOPt?usp=sharing)  
+[🔗 Link to Notebook 21/04/2026](https://colab.research.google.com/drive/1k71tUjRzpotzPeWWO7fw-UH7fyXuUDTu?usp=sharing)  
 - 2.2 Data Types  
 - 2.3 Data Type Conversion  
 - 2.4 Operators  
