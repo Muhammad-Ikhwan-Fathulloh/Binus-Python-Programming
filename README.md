@@ -34,6 +34,7 @@
 
 ## 📍 Pertemuan 3: Conditions & Loops  
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1Oa7pJrngnVK_Qpwyy6UADtc7pjZXCpw7?usp=sharing)  
+[🔗 Link to Notebook 28/04/2026](https://colab.research.google.com/drive/1ZQ0n5AcK8jnIZFOsk7dGPfJ-5JecWOhc?usp=sharing)  
 - 3.1 Basic If Structure  
 - 3.2 If/Elif/Else Branching  
 - 3.3 Looping  
