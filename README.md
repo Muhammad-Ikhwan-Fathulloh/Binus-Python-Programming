@@ -8,7 +8,6 @@
 
 ## 📍 Pertemuan 1: Introduction to Python  
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1dBvLlvZKBfkkEq_MCzORCioR9imydV1M?usp=sharing)  
-[🔗 Link to Notebook 14/04/2026](https://colab.research.google.com/drive/1K45RfP5KMgPfWCXztr9TEy_e-3ncXN57?usp=sharing)  
 - 1.1 Installing Python  
 - 1.2 Syntax Rules in Python  
 - 1.3 Python Programming Editor  
@@ -19,7 +18,6 @@
 
 ## 📍 Pertemuan 2: Data Types & Operators  
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1VTUrKAHR8UpUa4tUunes7CdHfmXBUOPt?usp=sharing)  
-[🔗 Link to Notebook 21/04/2026](https://colab.research.google.com/drive/1k71tUjRzpotzPeWWO7fw-UH7fyXuUDTu?usp=sharing)  
 - 2.2 Data Types  
 - 2.3 Data Type Conversion  
 - 2.4 Operators  
@@ -34,7 +32,6 @@
 
 ## 📍 Pertemuan 3: Conditions & Loops  
 [🔗 Link to Notebook](https://colab.research.google.com/drive/1Oa7pJrngnVK_Qpwyy6UADtc7pjZXCpw7?usp=sharing)  
-[🔗 Link to Notebook 28/04/2026](https://colab.research.google.com/drive/1ZQ0n5AcK8jnIZFOsk7dGPfJ-5JecWOhc?usp=sharing)  
 - 3.1 Basic If Structure  
 - 3.2 If/Elif/Else Branching  
 - 3.3 Looping  
